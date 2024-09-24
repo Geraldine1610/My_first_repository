@@ -4,4 +4,4 @@ This is my second text file.
 
 I like drinking hot chocolate.
 
-This text is also about food.
+This text is about drinks.
