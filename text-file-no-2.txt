@@ -1,0 +1,7 @@
+Text file no. 2
+
+This is my second text file.
+
+I like drinking hot chocolate.
+
+This text is also about food.
